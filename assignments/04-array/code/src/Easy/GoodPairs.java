@@ -1,24 +1,21 @@
 package Easy;
 
 import java.util.Arrays;
+import java.util.Scanner;
 
 public class GoodPairs {
     public static void main(String[] args) {
-        int counter = 0;
-        int[] nums = {1,5,1,1,4,3,4,7,7,2,3};
 
-        int[] ans = new int[nums.length];
+
+        int[] nums = {1,2,4,12,1,3,2,9,8,3,1,2,3};
+        int count = 0;
         for (int i = 0; i < nums.length; i++) {
-            for (int j = 0; j < nums.length; j++) {
-                if(nums[j]>nums[i]){
-                    ans[i] = nums[j];
-                }
-
+            for (int j = i+1; j < nums.length; j++) {
                 if(nums[i] == nums[j]){
-                    counter++;
+                    count++;
                 }
             }
         }
-        System.out.println(counter);
+        System.out.println(count);
     }
 }
