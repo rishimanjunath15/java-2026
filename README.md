@@ -1,64 +1,92 @@
-☕ Java 2026
+# ☕ Java 2026 – Java + DSA Practice Repository
 
-A collection of Java programs, assignments, and lecture practice files created during 2026 Java learning and internship practice.
-This repository is used to track progress, improve problem-solving skills, and store Java concepts from basics to intermediate level.
+This repository contains my **Java learning journey for 2026**, including  
+Java fundamentals, problem solving, and Data Structures & Algorithms practice.
 
-📁 Repository Structure
+It is used to track my daily progress, assignments, and lecture code while learning
+Java for software development and coding interviews.
+
+---
+
+## 📌 Repository Structure
 
 java-2026/
 │
-├── assignments/     → Practice problems & task solutions  
-├── lectures/        → Lecture examples and concept demos  
-└── .gitignore
+├── lectures/ → Code from daily Java & DSA lectures
+├── assignments/ → Practice problems & solutions
+└── README.md → Project documentation
 
-🚀 Topics Covered
 
-Java basics (syntax, variables, loops)
-Conditional statements
-Methods & functions
-Arrays & strings
-Object-Oriented Programming (OOP)
-Practice problems
-College/internship assignments
+---
 
-🛠️ Technologies Used
+## 🚀 Topics Covered
 
-Java (JDK 8+)
-VS Code / IntelliJ IDEA
-Git & GitHub
+- Java Basics  
+- OOP (Object Oriented Programming)  
+- Arrays & Strings  
+- Searching & Sorting  
+- Recursion  
+- Data Structures  
+- Problem Solving (LeetCode style)  
+- DSA Patterns  
+- Interview Preparation  
 
-▶️ How to Run
+---
 
-Clone the repository
+## 🎯 Goal of This Repository
+
+- Build strong **Java fundamentals**
+- Practice **DSA daily**
+- Prepare for **coding interviews**
+- Track my progress publicly
+- Maintain clean & structured code
+
+---
+
+## 🛠 Tech Stack
+
+- Language: **Java**
+- IDE: IntelliJ / VS Code
+- Version Control: Git & GitHub
+
+---
+
+## 📅 Progress
+
+I update this repository regularly with:
+- Lecture code
+- Practice problems
+- Assignments
+- Interview questions
+
+---
+
+## 💻 How to Run Code
+
+1. Clone the repository
+
 git clone https://github.com/rishimanjunath15/java-2026.git
-Open in IDE (VS Code / IntelliJ)
-Compile and run any file
+
+
+Open in your IDE
+
+Navigate to any file and run:
+
 javac FileName.java
 java FileName
 
-🎯 Purpose
+🤝 Contributions
 
-This repository is created to:
-Practice Java programming daily
-Store internship/college work
-Track learning progress
-Prepare for coding interviews
+This is a personal learning repository, but suggestions and improvements are welcome.
 
-📌 Future Improvements
-
-Add advanced Java programs
-Add DSA problems
-Add mini-projects
-Improve code structure
+If you find something useful, feel free to ⭐ the repo.
 
 👨‍💻 Author
 
 Rishi Manjunath
-Java Full Stack Learner
-GitHub: https://github.com/rishimanjunath15
+Java Full Stack Learner | DSA Practice
 
-⭐ Support
-If you find this repository helpful, give it a ⭐ on GitHub.
-
+GitHub:
+https://github.com/rishimanjunath15
 
 
