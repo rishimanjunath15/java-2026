@@ -1,0 +1,20 @@
+package singleton;
+
+public class Singleton {
+    private int num = 0;
+
+    private Singleton(){
+
+    }
+
+    private static Singleton instance;
+
+    public static Singleton getInstance(){
+        //check wheteher 1 obj is created or nnot
+        if(instance == null){
+            instance = new Singleton();
+
+        }
+        return instance;
+    }
+}
